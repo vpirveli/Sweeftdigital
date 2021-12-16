@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\bin\Debug\netcoreapp3.1\ThirdTest.exe
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\bin\Debug\netcoreapp3.1\ThirdTest.deps.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\bin\Debug\netcoreapp3.1\ThirdTest.runtimeconfig.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\bin\Debug\netcoreapp3.1\ThirdTest.runtimeconfig.dev.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\bin\Debug\netcoreapp3.1\ThirdTest.dll
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\bin\Debug\netcoreapp3.1\ThirdTest.pdb
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\obj\Debug\netcoreapp3.1\ThirdTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\obj\Debug\netcoreapp3.1\ThirdTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\obj\Debug\netcoreapp3.1\ThirdTest.AssemblyInfo.cs
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\obj\Debug\netcoreapp3.1\ThirdTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\obj\Debug\netcoreapp3.1\ThirdTest.dll
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\obj\Debug\netcoreapp3.1\ThirdTest.pdb
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\obj\Debug\netcoreapp3.1\ThirdTest.genruntimeconfig.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\ThirdTest\ThirdTest\ThirdTest\obj\Debug\netcoreapp3.1\ThirdTest.csproj.AssemblyReference.cache
