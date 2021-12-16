@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\bin\Debug\netcoreapp3.1\FifthTest.exe
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\bin\Debug\netcoreapp3.1\FifthTest.deps.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\bin\Debug\netcoreapp3.1\FifthTest.runtimeconfig.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\bin\Debug\netcoreapp3.1\FifthTest.runtimeconfig.dev.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\bin\Debug\netcoreapp3.1\FifthTest.dll
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\bin\Debug\netcoreapp3.1\FifthTest.pdb
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\obj\Debug\netcoreapp3.1\FifthTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\obj\Debug\netcoreapp3.1\FifthTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\obj\Debug\netcoreapp3.1\FifthTest.AssemblyInfo.cs
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\obj\Debug\netcoreapp3.1\FifthTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\obj\Debug\netcoreapp3.1\FifthTest.dll
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\obj\Debug\netcoreapp3.1\FifthTest.pdb
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\obj\Debug\netcoreapp3.1\FifthTest.genruntimeconfig.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FifthTest\FifthTest\FifthTest\obj\Debug\netcoreapp3.1\FifthTest.csproj.AssemblyReference.cache
