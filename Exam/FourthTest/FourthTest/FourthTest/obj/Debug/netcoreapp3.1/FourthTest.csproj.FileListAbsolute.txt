@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\bin\Debug\netcoreapp3.1\FourthTest.exe
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\bin\Debug\netcoreapp3.1\FourthTest.deps.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\bin\Debug\netcoreapp3.1\FourthTest.runtimeconfig.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\bin\Debug\netcoreapp3.1\FourthTest.runtimeconfig.dev.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\bin\Debug\netcoreapp3.1\FourthTest.dll
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\bin\Debug\netcoreapp3.1\FourthTest.pdb
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\obj\Debug\netcoreapp3.1\FourthTest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\obj\Debug\netcoreapp3.1\FourthTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\obj\Debug\netcoreapp3.1\FourthTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\obj\Debug\netcoreapp3.1\FourthTest.AssemblyInfo.cs
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\obj\Debug\netcoreapp3.1\FourthTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\obj\Debug\netcoreapp3.1\FourthTest.dll
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\obj\Debug\netcoreapp3.1\FourthTest.pdb
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\FourthTest\FourthTest\FourthTest\obj\Debug\netcoreapp3.1\FourthTest.genruntimeconfig.cache
