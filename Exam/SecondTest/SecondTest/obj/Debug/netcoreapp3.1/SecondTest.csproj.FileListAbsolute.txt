@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\bin\Debug\netcoreapp3.1\SecondTest.exe
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\bin\Debug\netcoreapp3.1\SecondTest.deps.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\bin\Debug\netcoreapp3.1\SecondTest.runtimeconfig.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\bin\Debug\netcoreapp3.1\SecondTest.runtimeconfig.dev.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\bin\Debug\netcoreapp3.1\SecondTest.dll
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\bin\Debug\netcoreapp3.1\SecondTest.pdb
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\obj\Debug\netcoreapp3.1\SecondTest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\obj\Debug\netcoreapp3.1\SecondTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\obj\Debug\netcoreapp3.1\SecondTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\obj\Debug\netcoreapp3.1\SecondTest.AssemblyInfo.cs
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\obj\Debug\netcoreapp3.1\SecondTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\obj\Debug\netcoreapp3.1\SecondTest.dll
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\obj\Debug\netcoreapp3.1\SecondTest.pdb
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\SecondTest\SecondTest\obj\Debug\netcoreapp3.1\SecondTest.genruntimeconfig.cache
