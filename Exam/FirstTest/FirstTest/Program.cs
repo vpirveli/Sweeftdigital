@@ -10,7 +10,7 @@ namespace FirstTest
 
             Console.Write("Welcome, to Matrix. \n\nInput any word: ");
 
-            string userInput = Console.ReadLine();
+            string userInput = Console.ReadLine().ToUpper();
             bool isPalindrome = Palindrome(userInput);
 
             Console.Write($"\nThe statement that the word {userInput} is a palindrome is {isPalindrome}\n");

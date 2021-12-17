@@ -5,9 +5,10 @@ namespace ThirdTest
 {
     class Program
     {
+        #region Private
         private static int textTimer = 100; // change to 0 to be faster
         private static int calculateTimer = 3000; // change to 0 to be faster
-
+        #endregion
         static void Main(string[] args)
         {
             #region MatrixMessage
