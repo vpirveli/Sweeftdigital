@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nZ4Rkqb2ABojNPuHSQY9P7ypF/A4CHdc7Z/R+BgmDzv6Z83bP1C5qa94oO28a2QWK/ZuqLHRrQBW7ocQs6cqpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\vpirveli\\Sweeftdigital\\Exam\\EighthTest\\EighthTest\\EighthTest\\EighthTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}

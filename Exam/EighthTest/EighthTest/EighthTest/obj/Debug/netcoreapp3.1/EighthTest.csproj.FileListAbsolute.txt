@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\bin\Debug\netcoreapp3.1\EighthTest.exe
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\bin\Debug\netcoreapp3.1\EighthTest.deps.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\bin\Debug\netcoreapp3.1\EighthTest.runtimeconfig.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\bin\Debug\netcoreapp3.1\EighthTest.runtimeconfig.dev.json
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\bin\Debug\netcoreapp3.1\EighthTest.dll
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\bin\Debug\netcoreapp3.1\EighthTest.pdb
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\obj\Debug\netcoreapp3.1\EighthTest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\obj\Debug\netcoreapp3.1\EighthTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\obj\Debug\netcoreapp3.1\EighthTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\obj\Debug\netcoreapp3.1\EighthTest.AssemblyInfo.cs
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\obj\Debug\netcoreapp3.1\EighthTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\obj\Debug\netcoreapp3.1\EighthTest.dll
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\obj\Debug\netcoreapp3.1\EighthTest.pdb
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\obj\Debug\netcoreapp3.1\EighthTest.genruntimeconfig.cache
+C:\Users\user\source\repos\vpirveli\Sweeftdigital\Exam\EighthTest\EighthTest\EighthTest\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
