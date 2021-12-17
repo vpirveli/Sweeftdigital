@@ -8,6 +8,7 @@ namespace FourthTest
         {
             string input;
             bool check;
+
             do
             {
                 check = false;
@@ -22,7 +23,6 @@ namespace FourthTest
                 }
             } while (check);
 
-
             bool isProperly = IsProperly(input);
             Console.WriteLine("The Statement:");
             Console.WriteLine($"'(' and ')' signs are used correctly - is {isProperly}");
@@ -31,6 +31,7 @@ namespace FourthTest
         private static bool IsProperly(string input)
         {
             int count = 0;
+
             foreach (var item in input)
             {
                 if (item == '(')
@@ -45,6 +46,7 @@ namespace FourthTest
 
                 }
             }
+
             if (count != 0)
             {
                 return false;

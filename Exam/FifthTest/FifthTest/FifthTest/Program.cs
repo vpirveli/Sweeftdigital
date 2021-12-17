@@ -7,6 +7,7 @@ namespace FifthTest
         static void Main(string[] args)
         {
             Console.Write("Enter the number of stairs: ");
+
             int input = Convert.ToInt32(Console.ReadLine());
 
             int countVariants = CountVariants(input);

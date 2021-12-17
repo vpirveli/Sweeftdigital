@@ -6,8 +6,10 @@ namespace SixthTest
 {
     class MyDictionary<T>
     {
+        #region Private
         private Dictionary<T, int> dictionary = new Dictionary<T, int>();
-
+        #endregion
+        #region Methods
         public void Insert(T value)
         {
             if (dictionary.ContainsKey(value))
@@ -40,11 +42,14 @@ namespace SixthTest
         private int Sum(Dictionary<T, int>.ValueCollection values)
         {
             int sum = 0;
+
             foreach (var item in values)
             {
                 sum += item;
             }
+
             return sum;
         }
+        #endregion
     }
 }
